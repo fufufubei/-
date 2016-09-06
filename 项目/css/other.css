@@ -1,0 +1,39 @@
+#form1{
+	width:978px;
+	height:573px;
+	border:1px solid #c6e6f3;
+	
+	margin:10px auto 0;
+}
+#form-left{
+	float:left;
+	width:437px;
+	background:pink;
+	height:526px;
+	padding:47px 27px 0 21px;
+}
+#form-right{
+	float:left;
+	width:440px;
+	background:yellow;
+	height:526px;
+	padding:47px 27px 0 25px;
+}
+
+.form-title{
+	font-size:18px;
+	color:#666;
+	height:37px;
+	line-height:47px;
+	border-bottom:5px solid #face32;
+	background:#e4e4e4;
+}
+#form-left .form-title{
+	border-color:#71dbff;
+}
+#form-left span{
+	color:#07aafe;
+}
+#form-right span{
+	color:#f9990e;
+}
